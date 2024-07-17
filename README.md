@@ -19,6 +19,34 @@ Young fashion enthusiasts seek instant feedback and validation from their peers,
 
 The GenZ Bestie Chat Group feature provides a seamless way for users to share products and chat with friends directly on Myntra. This integration enhances user engagement and makes the shopping process more interactive and enjoyable.
 
+## Workflow 
+### Landing Page
+![Landing Page](images/Landingpage.png)
+### Browsing Products
+![Browsing Products](images/ProductCategories.png)
+### Share Option(If user already registered and created user group)
+![Sharing Products](images/ShareOption.png)
+### Group Chat among friends
+![Sharing Products](images/Sharedinchat.png)
+![Responding to Message](images/Resondingtomsg.png)
+
+### If user not yet registered
+
+![User Registration](images/LoginPage.png)
+![User Login](images/SignupPage.png)
+
+### User can check profile
+![UserProfile](images/UserProfile.png)
+
+### Create Groups
+
+![Friends Groups](images/CreateGroup.png)
+
+### Real-Time Chat along with notification
+
+![Real-Time Chat](images/Notification.png)
+
+
 ## Tech Stack
 
 - **Frontend**: React for the user interface.
@@ -85,33 +113,6 @@ The GenZ Bestie Chat Group feature provides a seamless way for users to share pr
 2. Browse products and click the "Share" button to share with friends.
 3. Engage in real-time chats and get feedback on your selections.
 4. Manage your profile and groups from the user dashboard.
-
-## Workflow End to End
-### Landing Page
-![Landing Page](images/Landingpage.png)
-### Browsing Products
-![Browsing Products](images/ProductCategories.png)
-### Share Option(If user already registered and created user group)
-![Sharing Products](images/ShareOption.png)
-### Group Chat among friends
-![Sharing Products](images/Sharedinchat.png)
-![Responding to Message](images/Resondingtomsg.png)
-
-### If user not yet registered
-
-![User Registration](images/LoginPage.png)
-![User Login](images/SignupPage.png)
-
-### User can check profile
-![UserProfile](images/UserProfile.png)
-
-### Create Groups
-
-![Friends Groups](images/CreateGroup.png)
-
-### Real-Time Chat along with notification
-
-![Real-Time Chat](images/Notification.png)
 
 ## Team Members
 1.**Yakshine Anannya Gudapati**
