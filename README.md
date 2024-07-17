@@ -13,7 +13,7 @@ Myntra GenZ Bestie Chat Group is an innovative feature designed to enhance the s
 
 ## Problem Statement
 
-Online shopping can often feel isolating without the ability to easily share and discuss potential purchases with friends. Existing messaging platforms require users to switch between apps, disrupting the shopping experience. There is a need for an integrated solution that fosters social interaction within the shopping platform itself.
+Young fashion enthusiasts seek instant feedback and validation from their peers, but switching between apps for opinions is cumbersome and disrupts the shopping experience. Myntra's current platform does not fully resonate with Gen Z and fast fashion enthusiasts due to a lack of community-building features like user groups for sharing reviews and recommendations. There is a need for a seamless, integrated solution within the Myntra app to better connect with younger audiences, foster a sense of community, and increase user retention.
 
 ## Proposed Solution
 
@@ -22,11 +22,10 @@ The GenZ Bestie Chat Group feature provides a seamless way for users to share pr
 ## Tech Stack
 
 - **Frontend**: React for the user interface.
-- **Backend**: Node.js with Express for server-side logic.
+- **Backend****: Node.js with Express for server-side logic.
 - **Database**: MongoDB for storing user data.
 - **Real-Time Communication**: Socket.IO for real-time messaging.
-- **Hosting**: AWS for scalable and reliable infrastructure.
-  
+
 ## Installation
 
 ### Prerequisites
@@ -42,10 +41,10 @@ The GenZ Bestie Chat Group feature provides a seamless way for users to share pr
    git clone https://github.com/YakshineAnannyaGudapati/Myntra_Hackerramp.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory in the MyntraClone:
 
    ```bash
-   cd Myntra_Hackerramp
+   cd Frontend
    ```
 
 3. Install dependencies:
@@ -54,15 +53,27 @@ The GenZ Bestie Chat Group feature provides a seamless way for users to share pr
    npm install
    ```
 
-4. Set up environment variables:
+4. Set up DB Connection:
 
-   Create a `.env` file in the root directory and add the following:
+   Connect to the `//localhost:27017/`
 
-   ```plaintext
-   MONGO_URI=mongodb://localhost:27017/myntra_bestie_chat
+5. Start the development server (Landing page will be opened in the localhost:3000):
+
+   ```bash
+   npm start
    ```
 
-5. Start the development server:
+6. In a new terminal, navigate to the project directory of chat app frontend and backend through the following commands and install the dependencies:
+
+   ```bash
+   cd myapp
+   ```
+
+   ```bash
+   cd backend
+   ```
+
+7. Start the development server in the localhost:3001:
 
    ```bash
    npm start
@@ -82,3 +93,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
+Replace the placeholder paths (e.g., `images/user_registration.png`) with the actual paths to your images to ensure they are displayed correctly in the README file.
