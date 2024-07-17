@@ -1,5 +1,5 @@
 
-# Myntra GenZ Bestie Chat Group Feature
+# Myntra GenZ Bestie Chat Group Feature (Team CODE DIVAS)
 
 Myntra GenZ Bestie Chat Group is an innovative feature designed to enhance the social shopping experience. It allows users to share their favorite products with friends, engage in real-time conversations, and receive instant feedback directly within the Myntra platform.
 
@@ -86,11 +86,41 @@ The GenZ Bestie Chat Group feature provides a seamless way for users to share pr
 3. Engage in real-time chats and get feedback on your selections.
 4. Manage your profile and groups from the user dashboard.
 
+## Workflow End to End
+### Landing Page
+![Landing Page](images/Landingpage.png)
+### Browsing Products
+![Browsing Products](images/ProductCategories.png)
+### Share Option(If user already registered and created user group)
+![Sharing Products](images/ShareOption.png)
+### Group Chat among friends
+![Sharing Products](images/Sharedinchat.png)
+![Responding to Message](images/Resondingtomsg.png)
+
+### If user not yet registered
+
+![User Registration](images/LoginPage.png)
+![User Login](images/SignupPage.png)
+
+### User can check profile
+![UserProfile](images/UserProfile.png)
+
+### Create Groups
+
+![Friends Groups](images/CreateGroup.png)
+
+### Real-Time Chat along with notification
+
+![Real-Time Chat](images/Notification.png)
+
+## Team Members
+1.**Yakshine Anannya Gudapati**
+2.**Uma Subhashini Ravuri**
+3.**Sree Greeshma Achanta**
+
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
-Replace the placeholder paths (e.g., `images/user_registration.png`) with the actual paths to your images to ensure they are displayed correctly in the README file.
